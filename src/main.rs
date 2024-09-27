@@ -1,3 +1,5 @@
+// Dies Ist Ein Test ob die Gitfunktion in der Rust IDE funktioniert.
+
 use std::io::{self, Write}; // Für die Benutzereingabe und Ausgabe
 
 // Definition der Struktur `Frage`
